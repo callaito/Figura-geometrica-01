@@ -1,0 +1,28 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\bin\Debug\net6.0\Geometria.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\bin\Debug\net6.0\Geometria.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\bin\Debug\net6.0\Geometria.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\bin\Debug\net6.0\Geometria.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\bin\Debug\net6.0\Geometria.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\obj\Debug\net6.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\obj\Debug\net6.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\obj\Debug\net6.0\Geometria.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\obj\Debug\net6.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\obj\Debug\net6.0\Geometria.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\obj\Debug\net6.0\refint\Geometria.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\obj\Debug\net6.0\Geometria.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\obj\Debug\net6.0\Geometria.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Geometria\obj\Debug\net6.0\ref\Geometria.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\bin\Debug\net6.0\Geometria.exe
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\bin\Debug\net6.0\Geometria.deps.json
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\bin\Debug\net6.0\Geometria.runtimeconfig.json
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\bin\Debug\net6.0\Geometria.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\bin\Debug\net6.0\Geometria.pdb
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\obj\Debug\net6.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\obj\Debug\net6.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\obj\Debug\net6.0\Geometria.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\obj\Debug\net6.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\obj\Debug\net6.0\Geometria.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\obj\Debug\net6.0\refint\Geometria.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\obj\Debug\net6.0\Geometria.pdb
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\obj\Debug\net6.0\Geometria.genruntimeconfig.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Geometria\obj\Debug\net6.0\ref\Geometria.dll
